@@ -1,4 +1,4 @@
-<h1 style="color:red" align="center">Hi 👋, I'm Mohamed Badraldin</h1>
+<h1 style="color:red;" align="center">Hi 👋, I'm Mohamed Badraldin</h1>
 <h3 align="center">
 	Web & User Interface Development Trainee at Information Technology Institute (ITI)
 </h3>
