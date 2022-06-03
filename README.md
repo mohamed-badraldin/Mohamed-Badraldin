@@ -112,7 +112,6 @@ How to reach me **mohamed.badraldin.mohamed@gmail.com**
 			height="40"
 		/>
 	</a>
-
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 		<img
 			src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -123,6 +122,10 @@ How to reach me **mohamed.badraldin.mohamed@gmail.com**
 	</a>
 </p>
 
+<!--  -->
+<!--  -->
+
+# 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=mohamed-badraldin&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-badraldin&theme=radical&hide_border=true)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-badraldin&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
