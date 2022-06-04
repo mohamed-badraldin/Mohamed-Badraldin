@@ -6,9 +6,9 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 
 <h3>About me:</h3>
 <span>🌱 I’m currently learning Angular</span><br>
-<span>💬 Ask me about MEARN</span><br>
+<span>💬 Ask me about MERN</span><br>
 <span>📫 How to reach me <a href = "mailto: 1.mohamedbadreldin@gmail.com">1.mohamedbadreldin@gmail.com</a> </span><br>
-<span>⚡ Fun fact I am Diligent</span><br>
+<span>⚡ I am Diligent</span><br>
 
 <h3 align="left">connect with me:</h3>
 
