@@ -21,13 +21,14 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 			height="30"
 			width="40"
 	/></a>
+	<span width="10px"></span>
 	<a href="https://www.youtube.com/channel/UCooDbIiSHm-cPz0AXtgaAJw" target="blank"
 		><img
 			align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
 			alt="https://www.youtube.com/channel/ucoodbiishm-cpz0axtgaajw"
 			target="_blank"
-			height="40"
+			height="30"
 			width="40"
 	/></a>
 </p>
@@ -42,6 +43,7 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 			height="40"
 		/>
 	</a>
+	<span width="10px"></span>
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -50,6 +52,7 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 			height="40"
 		/>
 	</a>
+	<span width="10px"></span>
 	<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -58,6 +61,7 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 			height="40"
 		/>
 	</a>
+	<span width="10px"></span>
 	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -66,6 +70,7 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 			height="40"
 		/>
 	</a>
+	<span width="10px"></span>
 	<a
 		href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
 		target="_blank"
@@ -78,6 +83,7 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 			height="40"
 		/>
 	</a>
+	<span width="10px"></span>
 	<a href="https://graphql.org/" target="_blank" rel="noreferrer">
 		<img
 			src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
@@ -86,6 +92,7 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 			height="40"
 		/>
 	</a>
+	<span width="10px"></span>
 	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -94,6 +101,7 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 			height="40"
 		/>
 	</a>
+	<span width="10px"></span>
 	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -102,6 +110,7 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 			height="40"
 		/>
 	</a>
+	<span width="10px"></span>
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -110,6 +119,7 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 			height="40"
 		/>
 	</a>
+	<span width="10px"></span>
 	<a href="https://angular.io" target="_blank" rel="noreferrer">
 		<img
 			src="https://angular.io/assets/images/logos/angular/angular.svg"
@@ -118,6 +128,7 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 			height="40"
 		/>
 	</a>
+	<span width="10px"></span>
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 		<img
 			src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
