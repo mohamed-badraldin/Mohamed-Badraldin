@@ -13,7 +13,7 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 <h3 align="left">connect with me:</h3>
 
 <img align="left" alt="youtube" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
-
+<br>
 <h3 align="left">Tools:</h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
