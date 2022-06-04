@@ -1,9 +1,10 @@
 <img src="./cover.png" width="100%">
 
-<h3>Diligent and Studious web developer who is passionate about self‑learning and reading with two years of hands‑on experience In building
+<h4>Diligent and Studious web developer who is passionate about self‑learning and reading with two years of hands‑on experience In building
 responsive web applications while studying at <a href="https://www.iti.gov.eg/iti/home">the Information Technology Institute(ITI) </a> and <a href="https://www.nti.sci.eg/">the National Telecommunication Institute (NTI)</a>
-</h3>
+</h4>
 
+<h3>About me:</h3>
 <span>🌱 I’m currently learning Angular</span><br>
 <span>💬 Ask me about MEARN</span><br>
 <span>📫 How to reach me 1.mohamedbadreldin@gmail.com</span><br>
