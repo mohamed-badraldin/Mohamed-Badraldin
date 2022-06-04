@@ -12,10 +12,10 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 
 <h3 align="left">connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/m-badreldin/">
+<a href="https://www.linkedin.com/in/m-badreldin/" target="_blank">
 <img align="left" alt="linkenin" width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCooDbIiSHm-cPz0AXtgaAJw">
+<a href="https://www.youtube.com/channel/UCooDbIiSHm-cPz0AXtgaAJw" target="_blank">
 <img align="left" alt="youtube" width="26px" height="26px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
 </a>
 <br>
