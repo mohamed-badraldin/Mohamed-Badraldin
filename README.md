@@ -125,7 +125,12 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 		/>
 	</a>
 </p>
+
 <div width="200px">
-![](https://github-readme-stats.vercel.app/api?username=mohamed-badraldin&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<div>
+
+![](https://github-readme-stats.vercel.app/api?username=mohamed-badraldin&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+</div>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-badraldin&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-badraldin&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
