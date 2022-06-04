@@ -1,8 +1,8 @@
 <img src="./cover.png" width="100%">
 
-<h4>Diligent and Studious web developer who is passionate about self‑learning and reading with two years of hands‑on experience In building
-responsive web applications while studying at <a href="https://www.iti.gov.eg/iti/home">the Information Technology Institute</a> (ITI) and the National Telecommunication Institute (NTI)
-</h4>
+<h3>Diligent and Studious web developer who is passionate about self‑learning and reading with two years of hands‑on experience In building
+responsive web applications while studying at <a href="https://www.iti.gov.eg/iti/home">the Information Technology Institute(ITI) </a> and <a href="https://www.nti.sci.eg/">the National Telecommunication Institute (NTI)</a>
+</h3>
 
 <span>🌱 I’m currently learning Angular</span><br>
 <span>💬 Ask me about MEARN</span><br>
