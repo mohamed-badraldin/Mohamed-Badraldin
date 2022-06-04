@@ -1,12 +1,11 @@
-<img src="./cover.png">
+<img src="./cover.png" width="100%">
 
-<h1 align="center">Hi 👋, I'm Mohamed Badraldin</h1>
-<h3 align="center">
-	Web & User Interface Development Trainee at Information Technology Institute (ITI)
-</h3>
+# 💫About Me :
 
--   🌱 I’m currently learning **Nodejs** - 💬 Ask me about **JavaScript CSS3 OOP SQL DS etc..** - 📫
-    How to reach me **mohamed.badraldin.mohamed@gmail.com**
+🌱 I’m currently learning Angular
+💬 Ask me about MEARN
+📫 How to reach me 1.mohamedbadreldin@gmail.com
+⚡ Fun fact I am Diligent
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
