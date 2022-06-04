@@ -12,7 +12,12 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 
 <h3 align="left">connect with me:</h3>
 
-<img align="left" alt="youtube" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+<a href="https://www.linkedin.com/in/m-badreldin/">
+<img align="left" alt="facebook" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCooDbIiSHm-cPz0AXtgaAJw">
+<img align="left" alt="youtube" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" />
+</a>
 <br>
 <h3 align="left">Tools:</h3>
 
@@ -28,14 +33,8 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 <img align="left" alt="bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" />
-
-![](https://github-readme-stats.vercel.app/api?username=mohamed-badraldin&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-badraldin&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-badraldin&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
