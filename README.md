@@ -10,7 +10,7 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 <span>📫 How to reach me <a href = "mailto: 1.mohamedbadreldin@gmail.com">1.mohamedbadreldin@gmail.com</a> </span><br>
 <span>⚡ I am Diligent</span><br>
 
-<h3 align="left">connect with me:</h3>
+<br>
 
 <a href="https://www.linkedin.com/in/m-badreldin/" target="_blank">
 <img align="left" alt="linkenin" width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
