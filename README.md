@@ -1,8 +1,8 @@
 <img src="./cover.png" width="100%">
 
-<h3>Diligent and Studious web developer who is passionate about self‑learning and reading <br> with two years of hands‑on experience In building
+<h4>Diligent and Studious web developer who is passionate about self‑learning and reading <br> with two years of hands‑on experience In building
 responsive web applications while studying <br> at <a href="https://www.iti.gov.eg/iti/home">the Information Technology Institute(ITI) </a> and <a href="https://www.nti.sci.eg/">the National Telecommunication Institute (NTI)</a>
-</h3>
+</h4>
 
 <h3>About me:</h3>
 <span>🌱 I’m currently learning Angular</span><br>
@@ -126,6 +126,6 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 	</a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=mohamed-badraldin&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br />
+<div width="50%">![](https://github-readme-stats.vercel.app/api?username=mohamed-badraldin&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br /></div>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-badraldin&theme=radical&hide_border=true)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-badraldin&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
