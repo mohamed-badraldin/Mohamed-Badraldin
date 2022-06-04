@@ -1,6 +1,6 @@
 <img src="./cover.png" width="100%">
 
-<h4>Diligent and Studious web developer who is passionate about self‑learning and reading <br> with two years of hands‑on experience In building
+<h4 align="center">Diligent and Studious web developer who is passionate about self‑learning and reading <br> with two years of hands‑on experience In building
 responsive web applications while studying <br> at <a href="https://www.iti.gov.eg/iti/home">the Information Technology Institute(ITI) </a> and <a href="https://www.nti.sci.eg/">the National Telecommunication Institute (NTI)</a>
 </h4>
 
@@ -43,7 +43,7 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 			height="40"
 		/>
 	</a>
-	<span width="10px"></span>
+	<span width="30px"></span>
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
