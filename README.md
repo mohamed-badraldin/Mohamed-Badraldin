@@ -17,6 +17,7 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 			align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 			alt="https://www.linkedin.com/in/mohamed-badraldin/"
+			target="_blank"
 			height="30"
 			width="40"
 	/></a>
@@ -25,7 +26,8 @@ responsive web applications while studying <br> at <a href="https://www.iti.gov.
 			align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
 			alt="https://www.youtube.com/channel/ucoodbiishm-cpz0axtgaajw"
-			height="30"
+			target="_blank"
+			height="40"
 			width="40"
 	/></a>
 </p>
