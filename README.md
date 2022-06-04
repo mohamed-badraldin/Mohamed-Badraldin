@@ -1,11 +1,12 @@
-<h1 style="color:red;" align="center">Hi 👋, I'm Mohamed Badraldin</h1>
-<hr>
+<img src="./cover.png">
+
+<h1 align="center">Hi 👋, I'm Mohamed Badraldin</h1>
 <h3 align="center">
 	Web & User Interface Development Trainee at Information Technology Institute (ITI)
 </h3>
 
-- 🌱 I’m currently learning **Nodejs** - 💬 Ask me about **JavaScript CSS3 OOP SQL DS etc..** - 📫
-How to reach me **mohamed.badraldin.mohamed@gmail.com**
+-   🌱 I’m currently learning **Nodejs** - 💬 Ask me about **JavaScript CSS3 OOP SQL DS etc..** - 📫
+    How to reach me **mohamed.badraldin.mohamed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -123,10 +124,6 @@ How to reach me **mohamed.badraldin.mohamed@gmail.com**
 	</a>
 </p>
 
-<!--  -->
-<!--  -->
-
-# 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=mohamed-badraldin&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-badraldin&theme=radical&hide_border=true)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-badraldin&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
