@@ -1,11 +1,13 @@
 <img src="./cover.png" width="100%">
 
-# 💫About Me :
+<p>Diligent and Studious web developer who is passionate about self‑learning and reading with two years of hands‑on experience In building
+responsive web applications while studying at <a href"#">the Information Technology Institute</a> (ITI) and the National Telecommunication Institute (NTI)
+</p>
 
-🌱 I’m currently learning Angular
-💬 Ask me about MEARN
-📫 How to reach me 1.mohamedbadreldin@gmail.com
-⚡ Fun fact I am Diligent
+<h6>🌱 I’m currently learning Angular</h6>
+<h6>💬 Ask me about MEARN</h6>
+<h6>📫 How to reach me 1.mohamedbadreldin@gmail.com</h6>
+<h6>⚡ Fun fact I am Diligent</h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
